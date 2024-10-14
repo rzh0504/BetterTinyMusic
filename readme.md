@@ -4,9 +4,9 @@
 
 效果
 
-![image](https://i.111666.best/image/blnAzKNqasmoWCkN03irBd.png)
+![image.png](https://pics.051226.xyz/file/1728905388388_image.png)
 
-![image](https://i.111666.best/image/qSQq9onmbfPBQltBh47r8P.png)
+![image.png](https://pics.051226.xyz/file/1728905362830_image.png)
 
 获取正在播放的歌曲用的是 last.fm 的 [api](https://www.last.fm/api#getting-started), 支持 Spotify,具体还有哪些不知道，可以绑定 last.fm 的应该都可以(?)，音乐服务器如 Navidrome 等在绑定 last.fm 账号后也可。
 
