@@ -10,6 +10,8 @@
 
 获取正在播放的歌曲用的是 last.fm 的 [api](https://www.last.fm/api#getting-started), 支持 Spotify,具体还有哪些不知道，可以绑定 last.fm 的应该都可以(?)，音乐服务器如 Navidrome 等在绑定 last.fm 账号后也可。
 
+> 因为是国外的服务 某些中文歌无法获取封面
+
 ## Requirements
 
 - tailwindcss
